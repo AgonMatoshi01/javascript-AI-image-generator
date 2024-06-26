@@ -36,7 +36,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Deploy to production
-        run: |
-          echo "Deploying to production..."
-          # Add your deployment commands here
+      # - name: Deploy to production
+      #   run: |
+      #     echo "Deploying to production..."
+      #     # Add your deployment commands here
